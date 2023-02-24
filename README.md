@@ -1,4 +1,4 @@
-# JumpingJack
+# Jumping Jack
 Jumping Jack - Arduboy version.
 
 
